@@ -1,3 +1,40 @@
 body {
   margin: 0;
   padding: 0; }
+  body .ui.inverted.segment.menu {
+    background-color: #16a085;
+    margin: 0;
+    height: 100px; }
+    body .ui.inverted.segment.menu .ui.inverted.secondary.menu.floated.right {
+      margin-right: 5%; }
+
+a:hover {
+  font-size: 25px; }
+
+.item {
+  font-size: 24px; }
+
+.container {
+  height: 720px;
+  width: 100%;
+  /* background-color:#29ad8f; */
+  background-color: #50c5ab; }
+
+.container2 {
+  height: 720px;
+  width: 100%;
+  background-color: #16a085; }
+
+img.ui.meidum.circular.image {
+  display: inline; }
+
+iframe {
+  margin-left: 22%;
+  margin-top: 5%; }
+
+.field.email {
+  display: inline-block;
+  width: 250px; }
+
+.ui.form.success {
+  display: inline-block; }
