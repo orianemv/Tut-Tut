@@ -14,7 +14,7 @@ $height-img: auto;
 $width-img:100%;
 
 
-
+/*  PAGE ACCUEIL */
 .page_accueil {
 	width: 100%;
 	height: auto;
@@ -71,48 +71,7 @@ $width-img:100%;
 	}
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* PAGE AVIS POUR ECRAN PLUS PETIT QUE 940 */
 @media screen and (max-width: 940px) {
 
 	body {
@@ -230,7 +189,7 @@ $width-img:100%;
 		}
 	}
 }
-
+/* PAGE AVIS POUR ECRAN SUPERIEUR A 1600PX */
 @media screen and (min-width: 1600px) {
 
 	body {
@@ -357,7 +316,7 @@ $width-img:100%;
 		}
 	}
 }
-
+/*  PAGE AVIS POUR ECRAN ENTRE 940 et 1400 PX */
 @media screen and (min-width: 940px) and (max-width: 1400px) {
 
 	body {
@@ -484,7 +443,7 @@ $width-img:100%;
 		}
 	}
 }
-
+/*  PAGE AVIS POUR ECRAN ENTRE 1400 et 1600px */
 @media screen and (min-width: 1400px) and (max-width: 1600px) {
 
 	body {
@@ -611,10 +570,7 @@ $width-img:100%;
 		}
 	}
 }
-
-
-
-
+/* PAGE VALEURS */
 .container_page_valeurs{
 	height: auto;
 	width: 100%;
@@ -770,6 +726,7 @@ $width-img:100%;
 		}
 	}
 }
+/* FOOTER */
 .footer {
 	width: 100%;
 	background-color:#00ADD4;
