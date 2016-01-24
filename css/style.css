@@ -22,8 +22,7 @@
     .page_accueil .toptut .boutton-top {
       float: right;
       width: 10%;
-      height: 150px;
-      padding-top: 100px;
+      padding-top: 30px;
       margin-left: 2px;
       background-color: #74D4E9;
       display: inline;
@@ -460,22 +459,7 @@
   height: auto;
   width: 100%;
   display: block;
-  background-color: #B3E6F2;
-  /* 	.gogo {
-		height: 150px;
-		width:150px;
-		padding-top:1%;
-		border-radius:50%;
-		background-color:red;
-		display: inline-block;
-		margin-left: 80%;
-		margin-top:-10%;
-		.gogo_p {
-			text-align: center;
-			font-size: 40px;
-			color:green;
-		}
-		} */ }
+  background-color: #B3E6F2; }
   .container_page_valeurs .container_title {
     height: 150px;
     width: 100%;
@@ -557,7 +541,7 @@
   width: 100%;
   display: block; }
   .container_wireframe .bande {
-    height: auto;
+    height: 200px;
     width: 100%;
     background-color: white;
     margin-top: -5%;
@@ -615,4 +599,5 @@
     .footer ul li {
       color: white;
       font-size: 1.5em;
-      padding-top: 25px; }
+      padding-top: 25px;
+      font-weight: 800; }
